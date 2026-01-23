@@ -1,4 +1,4 @@
-# Learning-App-for-Deaf-And-Mute-and-sign-language-English-Gujarati-converter
+# Learning App for Deaf And Mute and sign language English Gujarati converter
 Project Name:
 SignMate Gujarat – Sign Language Learning & Communication App
 
