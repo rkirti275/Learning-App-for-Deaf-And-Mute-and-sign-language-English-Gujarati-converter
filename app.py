@@ -111,3 +111,8 @@ def add_lesson():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+# add predict
+@app.route('/predict', methods=['POST'])
+def predict():
+    return "Hello from backend"
