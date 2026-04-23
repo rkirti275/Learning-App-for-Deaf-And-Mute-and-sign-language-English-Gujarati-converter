@@ -1,0 +1,25 @@
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_selected="true">
+        <shape>
+            <solid android:color="@color/primary"/>
+            <corners android:radius="16dp"/>
+        </shape>
+    </item>
+
+    <item>
+        <shape>
+            <solid android:color="@color/card"/>
+            <stroke android:width="2dp" android:color="#E5E7EB"/>
+            <corners android:radius="16dp"/>
+        </shape>
+    </item>
+
+    <item tools:ignore="StateListReachable">
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="@color/card"/>
+            <corners android:radius="16dp"/>
+            <stroke android:width="2dp" android:color="#E5E7EB"/>
+        </shape>
+    </item>
+</selector>
