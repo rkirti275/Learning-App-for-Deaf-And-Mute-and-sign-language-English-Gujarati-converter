@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/java disha.iml" filepath="$PROJECT_DIR$/.idea/java disha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my_flutter_preview_2.iml" filepath="$PROJECT_DIR$/my_flutter_preview_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/my_flutter_preview_2_android.iml" filepath="$PROJECT_DIR$/android/my_flutter_preview_2_android.iml" />
     </modules>
   </component>
 </project>
